@@ -1,3 +1,8 @@
+🎯 Project Overview 
+This project is a Geospatial and Sentiment Analytics Dashboard built in Power BI, designed to function as an Evidence-Based Decision Support System for city planners. It unifies disparate municipal data streams with public feedback to optimize resource allocation and improve civic services.
+
+⚠️ Problem Statement 
+City management suffers from a data disconnect: key operational data (e.g., 311 requests, transit reports) is fragmented, and decision-making fails to integrate the real-time voice of the citizen. This leads to inefficient resource distribution and a low correlation between budget spend and actual public needs.
 Weekly Breakdown
 Week 1 – Data Integration & Geospatial Modeling
 Cleaned and mapped 311 data
